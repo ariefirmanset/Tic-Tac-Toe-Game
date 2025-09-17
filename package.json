@@ -9,6 +9,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
+  "homepage": "https://github.com/ariefirmanset/Tic-Tac-Toe-Game.git",
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
